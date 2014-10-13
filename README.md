@@ -1,4 +1,4 @@
-ember-hammer-component
+ember-hammer-time
 ======================
 
-hammer.js infused components
+hammer.js infused ember.js components
